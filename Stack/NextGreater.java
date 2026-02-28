@@ -21,5 +21,9 @@ public class NextGreater {
         for(int i=0 ; i<arr2.length ; i++){
             System.out.print(arr2[i]+" ");
         }
+        //next greater right 
+        //next greater left
+        //next smaller right 
+        //next smaller left
     }
 }
